@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: pomodoro_timer
+Version: 0.1
+Requires-Dist: click
+Requires-Dist: plyer
+Requires-Dist: pygame

@@ -1,0 +1,2 @@
+[console_scripts]
+pomodoro = main:main
